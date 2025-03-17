@@ -13,7 +13,6 @@ This Shiny interactive application is a personal project for my local church, de
 - <b>Shiny</b>
 
 
-
 <h1>Project Process:</h1>
 
 ## Data Collection
