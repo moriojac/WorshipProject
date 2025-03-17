@@ -30,7 +30,7 @@ With the mix of manual organizing and the help of AI tools, all data from the Wo
 
 The CSV file can be found below:
 
-[WorshipData2024.csv](https://hexagon-cow-j6hr.squarespace.com/s/FCCWorshipData.csv)
+[WorshipData2024.csv](https://api.csvgetter.com/demo/HyshgYk7EAxmH10qJPIP)
 
 ---
 
