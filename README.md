@@ -20,7 +20,8 @@ For this project, I received a 41-page Word document detailing 52 worship servic
 
 The document can be found below:
 
-**[WorshipData2024.csv]**
+[WorshipData2024.docx](https://api.csvgetter.com/demo/HyshgYk7EAxmH10qJPIP)
+
 
 ---
 
