@@ -20,7 +20,7 @@ For this project, I received a 41-page Word document detailing 52 worship servic
 
 The document can be found below:
 
-[WorshipData2024.docx](https://hexagon-cow-j6hr.squarespace.com/s/FCCWorshipData2024.docx)
+**[WorshipData2024.csv]**
 
 ---
 
