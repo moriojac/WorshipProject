@@ -15,8 +15,6 @@ This Shiny interactive application is a personal project for my local church, de
 
 <h2>Project Process:</h2>
 
-# Worship Service Data Analysis: Trends and Insight
-
 ## Data Collection
 For this project, I received a 41-page Word document detailing 52 worship services in 2024, including the songs performed, vocalists, and instrumentalists for each service.
 
