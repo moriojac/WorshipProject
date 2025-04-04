@@ -49,8 +49,8 @@ This Shiny interactive application is a personal project for my local church, de
         <p style="text-align: center;">
           <br>
           Data is manipulated into several visualizations, categorized into two sections:
-          <br/><b>Worship Service Insights:</b> Allows users to search by name to access a compiled overview of their service contributions.
-          <br/><b>Musician Leaderboard:</b> Showcases the top musicians for each musical role.
+         <br> <br/><b>Worship Service Insights:</b> Allows users to search by name to access a compiled overview of their service contributions.
+          <br> <br/><b>Musician Leaderboard:</b> Showcases the top musicians for each musical role.
         </p>
       </div>
     </td>
