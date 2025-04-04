@@ -16,32 +16,48 @@ This Shiny interactive application is a personal project for my local church, de
 
 <h1>Project Process:</h1>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/250" alt="Data Collection"/>
-      <br/><b>Data Collection</b>
-      <br/>For this project, I received a 41-page Word document detailing 52 worship services in 2024, including the songs performed, vocalists, and instrumentalists for each service.
-      <br/><br/><a href="#">WorshipData2024.docx</a>
+    <td align="center" valign="top" width="25%">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="WorshipProject_P1.png" alt="Data Collection" style="width: 100%; height: auto;" />
+        <b>Data Collection</b>
+        <p style="text-align: center;">
+          For this project, I received a 41-page Word document detailing 52 worship services in 2024, including the songs performed, vocalists, and instrumentalists for each service.
+        </p>
+      </div>
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/250" alt="Data Cleaning and Preparation"/>
-      <br/><b>Data Cleaning and Preparation</b>
-      <br/>With the mix of manual organizing and the help of AI tools, all data from the Word document detailing 52 worship services was extracted and transferred to a CSV file.
-      <br/><br/><a href="#">WorshipData2024.csv</a>
+    <td align="center" valign="top" width="25%">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="WorshipProject_P2.png" alt="Data Cleaning and Preparation" style="width: 100%; height: auto;" />
+        <b>Data Cleaning and Preparation</b>
+        <p style="text-align: center;">
+          With the mix of manual organizing and the help of AI tools, all data from the Word document detailing 52 worship services was extracted and transferred to a CSV file.
+        </p>
+      </div>
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/250" alt="Data Visualization & Storytelling"/>
-      <br/><b>Data Visualization & Storytelling</b>
-      <br/>Data is manipulated into several visualizations, categorized into two sections:
-      <br/><b>Worship Service Insights:</b> Allows users to search by name to access a compiled overview of their service contributions.
-      <br/><b>Musician Leaderboard:</b> Showcases the top musicians for each musical role.
+    <td align="center" valign="top" width="25%">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="WorshipProject_P3.png" alt="Data Visualization & Storytelling" style="width: 100%; height: auto;" />
+        <b>Data Visualization & Storytelling</b>
+        <p style="text-align: center;">
+          Data is manipulated into several visualizations, categorized into two sections:
+          <br/><b>Worship Service Insights:</b> Allows users to search by name to access a compiled overview of their service contributions.
+          <br/><b>Musician Leaderboard:</b> Showcases the top musicians for each musical role.
+        </p>
+      </div>
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/250" alt="Interpretation & Decision-Making"/>
-      <br/><b>Interpretation & Decision-Making</b>
-      <br/>The goal of this data is to provide insights into worship service participation, allowing users to explore trends and recognize contributions within the music ministry.
-      <br/>Insights from the data can help worship leaders make informed decisions, such as balancing musician rotations, identifying frequently played songs, and recognizing key contributors to each service.
+    <td align="center" valign="top" width="25%">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="WorshipProject_P4.png" alt="Interpretation & Decision-Making" style="width: 100%; height: auto;" />
+        <b>Interpretation & Decision-Making</b>
+        <p style="text-align: center;">
+          The goal of this data is to provide insights into worship service participation, allowing users to explore trends and recognize contributions within the music ministry.
+          Insights from the data can help worship leaders make informed decisions, such as balancing musician rotations, identifying frequently played songs, and recognizing key contributors to each service.
+        </p>
+      </div>
     </td>
   </tr>
 </table>
+
+
