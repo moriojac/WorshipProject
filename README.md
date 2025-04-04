@@ -19,9 +19,7 @@ This Shiny interactive application is a personal project for my local church, de
 ## Data Collection
 For this project, I received a 41-page Word document detailing 52 worship services in 2024, including the songs performed, vocalists, and instrumentalists for each service.
 
-The document can be found below:
-
-[WorshipData2024.docx](https://api.csvgetter.com/demo/HyshgYk7EAxmH10qJPIP)
+The document can be found in the reporistory as 
 
 
 ---
@@ -29,9 +27,7 @@ The document can be found below:
 ## Data Cleaning and Preparation
 With the mix of manual organizing and the help of AI tools, all data from the Word document detailing 52 worship services was extracted and transferred to a CSV file.
 
-The CSV file can be found below:
-
-[WorshipData2024.csv](https://api.csvgetter.com/demo/HyshgYk7EAxmH10qJPIP)
+The CSV file can be found in the repository as
 
 ---
 
