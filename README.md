@@ -13,8 +13,12 @@ This Shiny interactive application is a personal project for my local church, de
 - <b>ggplot</b>
 - <b>Shiny</b>
 
+<br>
+<br>
 
-<h1>Project Process:</h1>
+<div align="center">
+  <h1>Project Process</h1>
+</div>
 
 <table width="100%">
   <tr>
@@ -23,6 +27,7 @@ This Shiny interactive application is a personal project for my local church, de
         <img src="WorshipProject_P1.png" alt="Data Collection" style="width: 100%; height: auto;" />
         <b>Data Collection</b>
         <p style="text-align: center;">
+          <br>
           For this project, I received a 41-page Word document detailing 52 worship services in 2024, including the songs performed, vocalists, and instrumentalists for each service.
         </p>
       </div>
@@ -32,6 +37,7 @@ This Shiny interactive application is a personal project for my local church, de
         <img src="WorshipProject_P2.png" alt="Data Cleaning and Preparation" style="width: 100%; height: auto;" />
         <b>Data Cleaning and Preparation</b>
         <p style="text-align: center;">
+          <br>
           With the mix of manual organizing and the help of AI tools, all data from the Word document detailing 52 worship services was extracted and transferred to a CSV file.
         </p>
       </div>
@@ -41,6 +47,7 @@ This Shiny interactive application is a personal project for my local church, de
         <img src="WorshipProject_P3.png" alt="Data Visualization & Storytelling" style="width: 100%; height: auto;" />
         <b>Data Visualization & Storytelling</b>
         <p style="text-align: center;">
+          <br>
           Data is manipulated into several visualizations, categorized into two sections:
           <br/><b>Worship Service Insights:</b> Allows users to search by name to access a compiled overview of their service contributions.
           <br/><b>Musician Leaderboard:</b> Showcases the top musicians for each musical role.
@@ -52,6 +59,7 @@ This Shiny interactive application is a personal project for my local church, de
         <img src="WorshipProject_P4.png" alt="Interpretation & Decision-Making" style="width: 100%; height: auto;" />
         <b>Interpretation & Decision-Making</b>
         <p style="text-align: center;">
+          <br>
           The goal of this data is to provide insights into worship service participation, allowing users to explore trends and recognize contributions within the music ministry.
           Insights from the data can help worship leaders make informed decisions, such as balancing musician rotations, identifying frequently played songs, and recognizing key contributors to each service.
         </p>
