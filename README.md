@@ -30,6 +30,7 @@ This Shiny interactive application is a personal project for my local church, de
         <br>
         <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
           For this project, I received a 41-page Word document detailing 52 worship services in 2024, including the songs performed, vocalists, and instrumentalists for each service.
+          <br><br><a href="./FCCWorshipData2024.docx" download>Download the Word document</a>
           <!--<br><br> The document can be found in the repository as "FCCWorshipData2024.docx" -->
         </h6>
       </div>
