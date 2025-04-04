@@ -41,7 +41,6 @@ This Shiny interactive application is a personal project for my local church, de
         <p style="text-align: center; min-height: 150px;">
           <br>
           With the mix of manual organizing and the help of AI tools, all data from the Word document detailing 52 worship services was extracted and transferred to a CSV file.
-          <br> <br/></b> The CSV file can be found in the repository as "FCCWorshipData2024.csv"
         </p>
       </div>
     </td>
