@@ -77,5 +77,3 @@ This Shiny interactive application is a personal project for my local church, de
     </td>
   </tr>
 </table>
-
-
