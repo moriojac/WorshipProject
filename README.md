@@ -29,7 +29,8 @@ This Shiny interactive application is a personal project for my local church, de
         <b>Data Collection</b>
         <br><br>
         <p style="text-align: center; min-height: 150px;">
-          For this project, data was collected from two primary sources: an NBA injury catalog and an NBA stats catalog, which can be found below.
+          For this project, I received a 41-page Word document detailing 52 worship services in 2024, including the songs performed, vocalists, and instrumentalists for each service.
+          <br> <br> The document can be found in the repository as <br><br> "FCCWorshipData2024.docx"
         </p>
       </div>
     </td>
@@ -40,6 +41,7 @@ This Shiny interactive application is a personal project for my local church, de
         <p style="text-align: center; min-height: 150px;">
           <br>
           With the mix of manual organizing and the help of AI tools, all data from the Word document detailing 52 worship services was extracted and transferred to a CSV file.
+          <br><br>The CSV file can be found in the repository as <br><br>"FCCWorshipData2024.csv"
         </p>
       </div>
     </td>
@@ -51,6 +53,7 @@ This Shiny interactive application is a personal project for my local church, de
           <br>
           Data is manipulated into several visualizations, categorized into two sections:
           <br> <br/><b>Worship Service Insights:</b> Allows users to search by name to access a compiled overview of their service contributions.
+           <br> <br/><b>Musician Leaderboard:</b> Showcases the top musicians for each musical role.
         </p>
       </div>
     </td>
@@ -61,6 +64,7 @@ This Shiny interactive application is a personal project for my local church, de
         <p style="text-align: center; min-height: 150px;">
           <br>
           The goal of this data is to provide insights into worship service participation, allowing users to explore trends and recognize contributions within the music ministry.
+        <br><br> Insights from the data can help worship leaders make informed decisions, such as balancing musician rotations, identifying frequently played songs, and recognizing key               contributors to each service
         </p>
       </div>
     </td>
