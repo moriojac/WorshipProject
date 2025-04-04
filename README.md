@@ -29,6 +29,10 @@ This Shiny interactive application is a personal project for my local church, de
         <p style="text-align: center;">
           <br>
           For this project, I received a 41-page Word document detailing 52 worship services in 2024, including the songs performed, vocalists, and instrumentalists for each service.
+          <br><br>
+          The document can be found in the repository under:
+          <br><br>
+          "FCCWorshipData2024.docx"
         </p>
       </div>
     </td>
@@ -39,6 +43,10 @@ This Shiny interactive application is a personal project for my local church, de
         <p style="text-align: center;">
           <br>
           With the mix of manual organizing and the help of AI tools, all data from the Word document detailing 52 worship services was extracted and transferred to a CSV file.
+          <br><br>
+          The csv file can be found in the repository under:
+          <br><br>
+          "FCCWorshipData2024.csv"
         </p>
       </div>
     </td>
@@ -61,6 +69,7 @@ This Shiny interactive application is a personal project for my local church, de
         <p style="text-align: center;">
           <br>
           The goal of this data is to provide insights into worship service participation, allowing users to explore trends and recognize contributions within the music ministry.
+          <br><br>
           Insights from the data can help worship leaders make informed decisions, such as balancing musician rotations, identifying frequently played songs, and recognizing key contributors to each service.
         </p>
       </div>
