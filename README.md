@@ -27,7 +27,7 @@ This Shiny interactive application is a personal project for my local church, de
       <div>
         <img src="WorshipProject_P1.png" alt="Data Collection" style="width: 100%; height: 300px; object-fit: cover;" />
         <b>Data Collection</b>
-        <p style="text-align: center;">
+        <p style="text-align: center; min-height: 150px;"">
           <br>
           For this project, I received a 41-page Word document detailing 52 worship services in 2024, including the songs performed, vocalists, and instrumentalists for each service.
           <br><br>
@@ -41,7 +41,7 @@ This Shiny interactive application is a personal project for my local church, de
       <div>
         <img src="WorshipProject_P2.png" alt="Data Cleaning and Preparation" style="width: 100%; height: 300px; object-fit: cover;" />
         <b>Data Cleaning and Preparation</b>
-        <p style="text-align: center;">
+        <p style="text-align: center; min-height: 150px;"">
           <br>
           With the mix of manual organizing and the help of AI tools, all data from the Word document detailing 52 worship services was extracted and transferred to a CSV file.
           <br><br>
@@ -55,7 +55,7 @@ This Shiny interactive application is a personal project for my local church, de
       <div>
         <img src="WorshipProject_P3.png" alt="Data Visualization & Storytelling" style="width: 100%; height: 300px; object-fit: cover;" />
         <b>Data Visualization & Storytelling</b>
-        <p style="text-align: center;">
+        <p style="text-align: center; min-height: 150px;"">
           <br>
           Data is manipulated into several visualizations, categorized into two sections:
          <br> <br/><b>Worship Service Insights:</b> Allows users to search by name to access a compiled overview of their service contributions.
@@ -67,7 +67,7 @@ This Shiny interactive application is a personal project for my local church, de
       <div>
         <img src="WorshipProject_P4.png" alt="Interpretation & Decision-Making" style="width: 100%; height: 300px; object-fit: cover;" />
         <b>Interpretation & Decision-Making</b>
-        <p style="text-align: center;">
+        <p style="text-align: center; min-height: 150px;"">
           <br>
           The goal of this data is to provide insights into worship service participation, allowing users to explore trends and recognize contributions within the music ministry.
           <br><br>
