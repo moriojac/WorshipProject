@@ -1,4 +1,5 @@
-<h1>Worship Service Data Analysis: Trends and Insights (2025) - <a href="https://moriojac.shinyapps.io/my_app/">Project Link</a> </h1>
+<h1>Worship Service Data Analysis: Trends and Insights (2025) - <a href="https://moriojac.shinyapps.io/my_app/" target="_blank">Project Link</a> </h1>
+
 
 
 
