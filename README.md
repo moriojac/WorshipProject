@@ -47,7 +47,7 @@ This Shiny interactive application is a personal project for my local church, de
     <td align="center" valign="top" width="25%">
       <div>
         <img src="WorshipProject_P3.png" style="width: 90%; height: 300px; object-fit: cover;" />
-        <h3>Data Visualization & Storytelling</h3>
+        <b>Data Visualization & Storytelling</b>
         <h6 style="text-align: center; min-height: 150px;">
           Data is manipulated into several visualizations, categorized into two sections:
           <br> <br/><b>Worship Service Insights:</b> Allows users to search by name to access a compiled overview of their service contributions.
