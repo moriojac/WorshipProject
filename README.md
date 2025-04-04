@@ -21,7 +21,7 @@ This Shiny interactive application is a personal project for my local church, de
   <h1>Project Process</h1>
 </div>
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" valign="top" width="25%">
       <div style="display: flex; flex-direction: column; align-items: center;">
