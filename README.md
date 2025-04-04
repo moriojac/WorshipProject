@@ -24,7 +24,7 @@ This Shiny interactive application is a personal project for my local church, de
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" valign="top" width="25%">
-      <div style="display: flex; flex-direction: column; align-items: center;">
+      <div>
         <img src="WorshipProject_P1.png" alt="Data Collection" style="width: 100%; height: 300px; object-fit: cover;" />
         <b>Data Collection</b>
         <p style="text-align: center;">
@@ -38,7 +38,7 @@ This Shiny interactive application is a personal project for my local church, de
       </div>
     </td>
     <td align="center" valign="top" width="25%">
-      <div style="display: flex; flex-direction: column; align-items: center;">
+      <div>
         <img src="WorshipProject_P2.png" alt="Data Cleaning and Preparation" style="width: 100%; height: 300px; object-fit: cover;" />
         <b>Data Cleaning and Preparation</b>
         <p style="text-align: center;">
@@ -52,7 +52,7 @@ This Shiny interactive application is a personal project for my local church, de
       </div>
     </td>
     <td align="center" valign="top" width="25%">
-      <div style="display: flex; flex-direction: column; align-items: center;">
+      <div>
         <img src="WorshipProject_P3.png" alt="Data Visualization & Storytelling" style="width: 100%; height: 300px; object-fit: cover;" />
         <b>Data Visualization & Storytelling</b>
         <p style="text-align: center;">
@@ -64,7 +64,7 @@ This Shiny interactive application is a personal project for my local church, de
       </div>
     </td>
     <td align="center" valign="top" width="25%">
-      <div style="display: flex; flex-direction: column; align-items: center;">
+      <div>
         <img src="WorshipProject_P4.png" alt="Interpretation & Decision-Making" style="width: 100%; height: 300px; object-fit: cover;" />
         <b>Interpretation & Decision-Making</b>
         <p style="text-align: center;">
